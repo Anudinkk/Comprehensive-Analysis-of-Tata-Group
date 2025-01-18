@@ -4,6 +4,16 @@ This repository provides a detailed overview of the Tata Group, including histor
 
 ---
 
+![Image](https://github.com/user-attachments/assets/8f8c278c-e9eb-44ed-b08c-41ec584ae7f5)
+
+![Image](https://github.com/user-attachments/assets/3fd01a9a-a35b-4b5d-a292-b7562ebc9e0a)
+
+![Image](https://github.com/user-attachments/assets/c6c1314e-bf51-4c6d-8993-7d8a01909edb)
+
+![Image](https://github.com/user-attachments/assets/7c5ca9b4-8824-4eee-8b18-574fb597c5d9)
+
+![Image](https://github.com/user-attachments/assets/b8f6fe0a-4578-45d7-92f1-ba17a03d89df)
+
 ## 📊 Insights from EV Owners
 
 ### 1. Battery Replacement Based on Charging Below 10%
